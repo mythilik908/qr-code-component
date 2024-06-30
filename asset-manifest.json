@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/github.io/qr-code-component/static/css/main.3cc6a0ac.css",
-    "main.js": "/github.io/qr-code-component/static/js/main.08ca3760.js",
-    "static/js/453.619ea46d.chunk.js": "/github.io/qr-code-component/static/js/453.619ea46d.chunk.js",
-    "static/media/outfit-latin-700-normal.woff": "/github.io/qr-code-component/static/media/outfit-latin-700-normal.39cf3f70c6d8cc5a9cd6.woff",
-    "static/media/outfit-latin-500-normal.woff": "/github.io/qr-code-component/static/media/outfit-latin-500-normal.de252ea04fe87442a0a7.woff",
-    "static/media/outfit-latin-700-normal.woff2": "/github.io/qr-code-component/static/media/outfit-latin-700-normal.016948b6e141358baa7b.woff2",
-    "static/media/outfit-latin-500-normal.woff2": "/github.io/qr-code-component/static/media/outfit-latin-500-normal.95db0e5561d6034e7cb8.woff2",
-    "static/media/outfit-latin-ext-700-normal.woff": "/github.io/qr-code-component/static/media/outfit-latin-ext-700-normal.2fa19eed72198624c682.woff",
-    "static/media/outfit-latin-ext-500-normal.woff": "/github.io/qr-code-component/static/media/outfit-latin-ext-500-normal.7fdb89686a27781b68ec.woff",
-    "static/media/outfit-latin-ext-700-normal.woff2": "/github.io/qr-code-component/static/media/outfit-latin-ext-700-normal.9ce1f4683c07e9dbf8f5.woff2",
-    "static/media/outfit-latin-ext-500-normal.woff2": "/github.io/qr-code-component/static/media/outfit-latin-ext-500-normal.dc982f8c040b2fcbb618.woff2",
-    "static/media/logo.svg": "/github.io/qr-code-component/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/github.io/qr-code-component/index.html",
-    "main.3cc6a0ac.css.map": "/github.io/qr-code-component/static/css/main.3cc6a0ac.css.map",
-    "main.08ca3760.js.map": "/github.io/qr-code-component/static/js/main.08ca3760.js.map",
-    "453.619ea46d.chunk.js.map": "/github.io/qr-code-component/static/js/453.619ea46d.chunk.js.map"
+    "main.css": "/github.io/qr-code-scanner/static/css/main.5a309df4.css",
+    "main.js": "/github.io/qr-code-scanner/static/js/main.44000ed2.js",
+    "static/js/453.af81179a.chunk.js": "/github.io/qr-code-scanner/static/js/453.af81179a.chunk.js",
+    "static/media/outfit-latin-700-normal.woff": "/github.io/qr-code-scanner/static/media/outfit-latin-700-normal.39cf3f70c6d8cc5a9cd6.woff",
+    "static/media/outfit-latin-500-normal.woff": "/github.io/qr-code-scanner/static/media/outfit-latin-500-normal.de252ea04fe87442a0a7.woff",
+    "static/media/outfit-latin-700-normal.woff2": "/github.io/qr-code-scanner/static/media/outfit-latin-700-normal.016948b6e141358baa7b.woff2",
+    "static/media/outfit-latin-500-normal.woff2": "/github.io/qr-code-scanner/static/media/outfit-latin-500-normal.95db0e5561d6034e7cb8.woff2",
+    "static/media/outfit-latin-ext-700-normal.woff": "/github.io/qr-code-scanner/static/media/outfit-latin-ext-700-normal.2fa19eed72198624c682.woff",
+    "static/media/outfit-latin-ext-500-normal.woff": "/github.io/qr-code-scanner/static/media/outfit-latin-ext-500-normal.7fdb89686a27781b68ec.woff",
+    "static/media/outfit-latin-ext-700-normal.woff2": "/github.io/qr-code-scanner/static/media/outfit-latin-ext-700-normal.9ce1f4683c07e9dbf8f5.woff2",
+    "static/media/outfit-latin-ext-500-normal.woff2": "/github.io/qr-code-scanner/static/media/outfit-latin-ext-500-normal.dc982f8c040b2fcbb618.woff2",
+    "static/media/logo.svg": "/github.io/qr-code-scanner/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/qr-code-scanner/index.html",
+    "main.5a309df4.css.map": "/github.io/qr-code-scanner/static/css/main.5a309df4.css.map",
+    "main.44000ed2.js.map": "/github.io/qr-code-scanner/static/js/main.44000ed2.js.map",
+    "453.af81179a.chunk.js.map": "/github.io/qr-code-scanner/static/js/453.af81179a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cc6a0ac.css",
-    "static/js/main.08ca3760.js"
+    "static/css/main.5a309df4.css",
+    "static/js/main.44000ed2.js"
   ]
 }
